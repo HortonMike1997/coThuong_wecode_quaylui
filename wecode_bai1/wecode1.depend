@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512482510 source:d:\github\cothuongwecode1\wecode1\main.cpp
+	<iostream>
+	<string>
+
+1512482510 source:d:\github\doanmonhoc\wecode_bai1\main.cpp
+	<iostream>
+	<string>
+

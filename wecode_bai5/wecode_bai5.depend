@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512748432 source:d:\github\doanmonhoc\wecode_bai5\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
